@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00ff41,100:003b00&height=260&section=header&text=Yash%20Vardhan%20Singh&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%203D%20Animator%20%7C%20AGI%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e6ffe6,50:66ff66,100:006600&height=260&section=header&text=Yash%20Vardhan%20Singh&fontSize=52&fontColor=003300&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%203D%20Animator%20%7C%20AGI%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
-  <img alt="banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00ff41,100:003b00&height=260&section=header&text=Yash%20Vardhan%20Singh&fontSize=52&fontColor=00ff41&fontAlignY=38&desc=Mechanical%20Engineer%20%7C%203D%20Animator%20%7C%20AGI%20Builder&descAlignY=58&descSize=18&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="light.svg"/>
+  <img alt="AVU hero banner" src="dark.svg" width="100%"/>
 </picture>
 
 <br/>
