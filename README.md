@@ -63,27 +63,32 @@ avu@terminal:~$ whoami
 
 **Design & CAD**
 
-<img src="https://img.shields.io/badge/SolidWorks-00ff41?style=for-the-badge&logo=solidworks&logoColor=black"/>
-<img src="https://img.shields.io/badge/AutoCAD-00ff41?style=for-the-badge&logo=autocad&logoColor=black"/>
-<img src="https://img.shields.io/badge/Fusion%20360-00ff41?style=for-the-badge&logo=autodesk&logoColor=black"/>
+<img src="https://img.shields.io/badge/SOLIDWORKS-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/AUTOCAD-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/FUSION%20360-00ff41?style=for-the-badge&logoColor=black"/>
 
 **3D Animation**
 
-<img src="https://skillicons.dev/icons?i=blender&theme=dark"/>
-<img src="https://img.shields.io/badge/Houdini-00ff41?style=for-the-badge&logo=sidefx&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cinema%204D-00ff41?style=for-the-badge&logo=cinema4d&logoColor=black"/>
-<img src="https://img.shields.io/badge/OCTANE%20Render-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/BLENDER-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/HOUDINI-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/CINEMA%204D-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/OCTANE%20RENDER-00ff41?style=for-the-badge&logoColor=black"/>
 
 **Programming & Computational**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark"/>
+<img src="https://img.shields.io/badge/PYTHON-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00ff41?style=for-the-badge&logoColor=black"/>
 
 **Tools & Software**
 
-<img src="https://img.shields.io/badge/MS%20Excel-00ff41?style=for-the-badge&logo=microsoftexcel&logoColor=black"/>
-<img src="https://img.shields.io/badge/Overleaf%20(LaTeX)-00ff41?style=for-the-badge&logo=overleaf&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-00ff41?style=for-the-badge&logo=canva&logoColor=black"/>
-<img src="https://skillicons.dev/icons?i=obsidian,git,github,vscode&theme=dark"/>
+<img src="https://img.shields.io/badge/MS%20EXCEL-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/OVERLEAF%20(LATEX)-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/CANVA-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/OBSIDIAN-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/GIT-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20CODE-00ff41?style=for-the-badge&logoColor=black"/>
 
 </div>
 
