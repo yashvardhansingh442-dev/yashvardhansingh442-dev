@@ -10,7 +10,7 @@
 
 # Hey there 👋 I'm AVU
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Mechanical+Engineering+Student;3D+Animator+%40+Blender+%2B+Unity;Building+MUFFIN.AI+%E2%80%94+AGI+Infrastructure;GATE+ME+2027+Aspirant;Always+Learning+%2C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Mechanical+Engineering+Student;;Building+MUFFIN.AI+%E2%80%94+AGI+Infrastructure;GATE+ME+2027+Aspirant;Always+Learning+%2C+Always+Shipping" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
 
@@ -79,12 +79,27 @@ avu@terminal:~$ whoami
 <img src="https://img.shields.io/badge/PYTHON-00ff41?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/C-00ff41?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/JAVA-00ff41?style=for-the-badge&logoColor=black"/>
+
+**Adobe Suite**
+
+<img src="https://img.shields.io/badge/AFTER%20EFFECTS-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/ILLUSTRATOR-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHOTOSHOP-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/PREMIERE%20PRO-00ff41?style=for-the-badge&logoColor=black"/>
+
+**Game Dev & Hardware**
+
+<img src="https://img.shields.io/badge/UNITY-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/UNREAL%20ENGINE-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/ARDUINO-00ff41?style=for-the-badge&logoColor=black"/>
 
 **Tools & Software**
 
 <img src="https://img.shields.io/badge/MS%20EXCEL-00ff41?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/OVERLEAF%20(LATEX)-00ff41?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/CANVA-00ff41?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/FIGMA-00ff41?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/OBSIDIAN-00ff41?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/GIT-00ff41?style=for-the-badge&logoColor=black"/>
 <img src="https://img.shields.io/badge/GITHUB-00ff41?style=for-the-badge&logoColor=black"/>
@@ -198,14 +213,7 @@ Future ── Humanoid robotics + AGI startup
 
 <br/>
 
-## 🎯 Current Goals
 
-- [x] Complete Crux Game Studios sci-fi cinematic test
-- [x] Build 350+ question DSA tracker vault
-- [x] Structure MUFFIN.AI 5-pillar roadmap
-- [ ] Clear GATE ME 2027
-- [ ] Ship first MUFFIN.AI repo milestone
-- [ ] Land first robotics-adjacent internship/role
 
 <div align="center">
 
