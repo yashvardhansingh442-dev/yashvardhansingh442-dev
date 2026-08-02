@@ -61,12 +61,28 @@ avu@terminal:~$ whoami
 
 <div align="center">
 
-**Languages**
+**Design & CAD**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,bash&theme=dark"/>
+<img src="https://img.shields.io/badge/SolidWorks-00ff41?style=for-the-badge&logo=solidworks&logoColor=black"/>
+<img src="https://img.shields.io/badge/AutoCAD-00ff41?style=for-the-badge&logo=autocad&logoColor=black"/>
+<img src="https://img.shields.io/badge/Fusion%20360-00ff41?style=for-the-badge&logo=autodesk&logoColor=black"/>
 
-**Tools & Platforms**
+**3D Animation**
 
+<img src="https://skillicons.dev/icons?i=blender&theme=dark"/>
+<img src="https://img.shields.io/badge/Houdini-00ff41?style=for-the-badge&logo=sidefx&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cinema%204D-00ff41?style=for-the-badge&logo=cinema4d&logoColor=black"/>
+<img src="https://img.shields.io/badge/OCTANE%20Render-00ff41?style=for-the-badge&logoColor=black"/>
+
+**Programming & Computational**
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp&theme=dark"/>
+
+**Tools & Software**
+
+<img src="https://img.shields.io/badge/MS%20Excel-00ff41?style=for-the-badge&logo=microsoftexcel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Overleaf%20(LaTeX)-00ff41?style=for-the-badge&logo=overleaf&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canva-00ff41?style=for-the-badge&logo=canva&logoColor=black"/>
 <img src="https://skillicons.dev/icons?i=obsidian,git,github,vscode&theme=dark"/>
 
 </div>
@@ -221,13 +237,10 @@ Future ── Humanoid robotics + AGI startup
 <div align="center">
 
 <a href="https://github.com/yashvardhansingh442-dev"><img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://behance.net/avusingh"><img src="https://img.shields.io/badge/Behance-00ff41?style=for-the-badge&logo=behance&logoColor=black"/></a>
+<a href="mailto:yashvardhansingh442@gmail.com"><img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+<a href="https://leetcode.com/Yash04_09"><img src="https://img.shields.io/badge/LeetCode-00ff41?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>No other links added yet — drop LinkedIn / X / Portfolio / Email badges here whenever you're ready.</sub>
 </div>
 
 <br/>
