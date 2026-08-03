@@ -10,7 +10,7 @@
 
 # Hey there 👋 I'm AVU
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Mechanical+Engineering+Student;3D+Animator+%40+Blender+%2B+Unity;Building+MUFFIN.AI+%E2%80%94+AGI+Infrastructure;GATE+ME+2027+Aspirant;Always+Learning+%2C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Mechanical+Engineering+Student;Building+MUFFIN.AI+%E2%80%94+AGI+Infrastructure;Always+Learning+%2C+Always+Shipping" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
 
