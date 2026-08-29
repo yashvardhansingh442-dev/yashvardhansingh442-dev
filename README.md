@@ -1,134 +1,115 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="light.svg"/>
-  <img alt="AVU hero banner" src="dark.svg" width="100%"/>
-</picture>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=2E86DE&center=true&vCenter=true&width=600&lines=Yash+Vardhan+Singh+(AVU);Mechanical+Engineer+%E2%86%92+Robotics+Founder;Building+MUFFIN.AI" alt="Header typing animation" />
 
 <br/>
 
-# Hey there 👋 I'm AVU
+**Mechanical Engineering Student · Freelance 3D Artist · Founder, MUFFIN.AI**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Mechanical+Engineering+Student;Building+MUFFIN.AI+%E2%80%94+AGI+Infrastructure;Always+Learning+%2C+Always+Shipping" alt="Typing SVG" />
+📍 Noida, India
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
+<br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yashvardhansingh442-dev&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/yashvardhansingh442-dev?label=Followers&style=for-the-badge&color=00ff41&labelColor=001a00" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/yashvardhansingh442-dev?label=Stars&style=for-the-badge&color=00ff41&labelColor=001a00" alt="Stars"/>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvardhansingh442-dev)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/avusingh)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Yash04_09)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvardhansingh442@gmail.com)
 
 </div>
 
 <br/>
 
-## 🖥️ About Me
+## 🧭 About
 
-<table>
-<tr>
-<td width="65%" valign="top">
+I'm a final-year **B.Tech Mechanical Engineering** student at ABES Engineering College (AKTU), Noida, currently making the shift from mechanical design into **robotics and AI**.
 
-```bash
-avu@terminal:~$ whoami
-```
-
-- 🎓 Final-year **B.Tech Mechanical Engineering** student → transitioning into **robotics founder**
-- 🤖 Building toward **AGI, one repo at a time** — **MUFFIN.AI**
-- 🧠 Prepping for **GATE ME 2027** while grinding DSA/LeetCode daily
-- 🎯 Long-term goal: founding a **humanoid robotics + AGI** startup
-- 🌱 Currently deep in Python, C++, Bash, and system design fundamentals
-- 🤝 Open to collaboration on AI tooling and robotics side-projects
-- 📍 Based in Noida, India
-
-> *"Building toward AGI, one repo at a time." 🤖*
-
-</td>
-<td width="35%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/assets/computer.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
+- 🎬 Freelance **3D artist & animator** — Blender, Houdini, Cinema 4D, Octane (Behance, Fiverr)
+- 🤖 Founder of **MUFFIN.AI**, an AI startup I'm building from the ground up
+- 📚 Preparing for **GATE ME 2027**, targeting DESE at IISc Bangalore
+- 🎯 Long-term: founding a **humanoid robotics + AGI** venture
+- 🤝 Open to collaborating on AI tooling and robotics side projects
 
 <br/>
 
-## 🧬 Tech Universe
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Design & CAD**
+**CAD & Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=autocad" height="40"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SolidWorks-E4002B?style=flat-square&logoColor=white" height="28"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Fusion%20360-F26722?style=flat-square&logoColor=white" height="28"/>
 
-<img src="https://skillicons.dev/icons?i=autodesk&theme=dark"/>
-<img src="https://img.shields.io/badge/SOLIDWORKS-00ff41?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/AUTOCAD-00ff41?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/FUSION%20360-00ff41?style=for-the-badge&logoColor=black"/>
+<br/><br/>
 
-**3D Animation**
+**3D & Animation**
+<br/>
+<img src="https://skillicons.dev/icons?i=blender" height="40"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=flat-square&logoColor=white" height="28"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Houdini-FF4713?style=flat-square&logoColor=white" height="28"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Octane%20Render-000000?style=flat-square&logoColor=white" height="28"/>
 
-<img src="https://skillicons.dev/icons?i=blender&theme=dark"/>
-<img src="https://img.shields.io/badge/HOUDINI-00ff41?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/CINEMA%204D-00ff41?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/OCTANE%20RENDER-00ff41?style=for-the-badge&logoColor=black"/>
+<br/><br/>
 
-**Programming & Computational**
+**Programming**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="40"/>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark"/>
+<br/><br/>
 
-**Adobe Suite**
+**Media & Creative**
+<br/>
+<img src="https://skillicons.dev/icons?i=ps,ai,premiere,ae" height="40"/>
 
-<img src="https://skillicons.dev/icons?i=ps,ai&theme=dark"/>
-<img src="https://img.shields.io/badge/AFTER%20EFFECTS-00ff41?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/PREMIERE%20PRO-00ff41?style=for-the-badge&logoColor=black"/>
+<br/><br/>
 
 **Game Dev & Hardware**
+<br/>
+<img src="https://skillicons.dev/icons?i=unity,unrealengine,arduino" height="40"/>
 
-<img src="https://skillicons.dev/icons?i=unity,unrealengine,arduino&theme=dark"/>
+<br/><br/>
 
-**Tools & Software**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian,latex&theme=dark"/>
-<img src="https://img.shields.io/badge/MS%20EXCEL-00ff41?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/CANVA-00ff41?style=for-the-badge&logoColor=black"/>
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian,latex" height="40"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🚀 What I'm Building — MUFFIN.AI
 
-<div align="center">
+> An AI startup focused on cognitive infrastructure, structured as a 5-pillar roadmap — one step on the way to founding a humanoid robotics and AGI venture.
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh442-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhansingh442-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="34%"/>
+| Pillar | Status |
+|---|---|
+| Roadmap & architecture | ✅ Structured |
+| Core repo milestone | 🔄 In progress |
+| Public release | ⏳ Planned |
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=yashvardhansingh442-dev&theme=dark&hide_border=true&background=0D1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="65%"/>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh442-dev&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhansingh442-dev&layout=compact&hide_border=true" height="165"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=yashvardhansingh442-dev&hide_border=true&theme=default" height="165"/>
 
 </div>
 
 <br/>
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvardhansingh442-dev&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="90%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophy Room
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashvardhansingh442-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=1" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashvardhansingh442-dev&theme=minimal&hide_border=true&color=2E86DE&line=2E86DE&point=181717" width="90%"/>
 
 </div>
 
@@ -138,7 +119,7 @@ avu@terminal:~$ whoami
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashvardhansingh442-dev/yashvardhansingh442-dev/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/yashvardhansingh442-dev/yashvardhansingh442-dev/output/github-contribution-grid-snake.svg" width="90%"/>
 
 </div>
 
@@ -165,7 +146,7 @@ jobs:
         with:
           github_user_name: yashvardhansingh442-dev
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -174,89 +155,26 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
+> This action needs to run once (via a push or manual trigger) before the snake image above will render — it generates the SVG on an `output` branch.
+
 </details>
 
-<br/>
-
-## 🚀 Repositories
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashvardhansingh442-dev&repo=muffin-ai-roadmap&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" width="45%"/>
-
-<sub>5 repos and counting — pin your top ones on GitHub and they'll show up here automatically. Swap `muffin-ai-roadmap` for your actual repo name(s), or add more `pin` cards for the rest.</sub>
-
-</div>
-
-<br/>
-
-## 🗺️ Timeline
-
-```
-2023 ─── Started self-taught Python + DSA journey, built early Obsidian vaults
-2024 ─── 3D animation freelance work (Behance/Fiverr), Red Bull & brand renders
-2025 ─── Crux Game Studios internship — sci-fi horror cinematic pipeline
-2026 ─── MUFFIN.AI roadmap, GATE ME 2027 prep, EndRig animation tests   ← YOU ARE HERE
-2027 ─── GATE ME, deeper AGI/robotics build-out
-Future ── Humanoid robotics + AGI startup
-```
-
-<br/>
-
-## 🎯 Current Goals
-
-- [x] Complete Crux Game Studios sci-fi cinematic test
-- [x] Build 350+ question DSA tracker vault
-- [x] Structure MUFFIN.AI 5-pillar roadmap
-- [ ] Clear GATE ME 2027
-- [ ] Ship first MUFFIN.AI repo milestone
-- [ ] Land first robotics-adjacent internship/role
-
-<div align="center">
-
-**DSA Grind** `▓▓▓▓▓▓▓▓░░` 80%
-**MUFFIN.AI Roadmap** `▓▓▓▓▓░░░░░` 50%
-**GATE ME 2027 Prep** `▓▓▓░░░░░░░` 30%
-
-</div>
-
-<br/>
-
-## 💻 Dev Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Yash04_09?theme=dark&font=baloo2&ext=heatmap" width="60%" alt="LeetCode stats"/>
-
-</div>
-
-<br/>
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote"/>
-
-</div>
-
-<br/>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/yashvardhansingh442-dev"><img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"/></a>
-<a href="https://behance.net/avusingh"><img src="https://img.shields.io/badge/Behance-00ff41?style=for-the-badge&logo=behance&logoColor=black"/></a>
-<a href="mailto:yashvardhansingh442@gmail.com"><img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-<a href="https://leetcode.com/Yash04_09"><img src="https://img.shields.io/badge/LeetCode-00ff41?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-
-</div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,50:00ff41,100:003b00&height=150&section=footer"/>
+### 📬 Get in Touch
+
+Open to conversations on AI tooling, robotics, or freelance 3D work.
+
+[![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvardhansingh442@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvardhansingh442-dev)
+[![Behance](https://img.shields.io/badge/-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/avusingh)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Yash04_09)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yashvardhansingh442-dev&label=Profile%20Views&color=2E86DE&style=flat" alt="Profile views"/>
 
 </div>
