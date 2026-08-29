@@ -119,7 +119,9 @@ I'm a final-year **B.Tech Mechanical Engineering** student at ABES Engineering C
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yashvardhansingh442-dev/yashvardhansingh442-dev/output/github-contribution-grid-snake.svg" width="90%"/>
+**Watch my contribution graph get eaten by the snake** 🐍
+
+<img src="https://raw.githubusercontent.com/yashvardhansingh442-dev/yashvardhansingh442-dev/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
 
@@ -146,7 +148,7 @@ jobs:
         with:
           github_user_name: yashvardhansingh442-dev
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
@@ -159,8 +161,8 @@ jobs:
 
 </details>
 
-
 <br/>
+
 
 <div align="center">
 
