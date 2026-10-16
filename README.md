@@ -4,34 +4,36 @@
 
 </div>
 
-```bash
-avu@engineering-lab:~$ whoami
-AVU. Mechanical Engineering → Robotics & AI
-
-avu@engineering-lab:~$ cat status.txt
-building     : MUFFIN.AI
-contributing : open source (first PR merged into Xenon)
-creating     : 3D visuals and animation
-exploring    : Python · DSA · AI systems
-location     : Noida, India · ABES Engineering College, AKTU
-```
+## About
 
 I'm a Mechanical Engineering student exploring the intersection of artificial intelligence, robotics and engineering. I learn by building, document the journey, and share what I learn.
 
+### At a Glance
+
+| | |
+|---|---|
+| **Focus** | Mechanical Engineering → Robotics & AI |
+| **Building** | MUFFIN.AI |
+| **Contributing** | Open source (first PR merged into Xenon) |
+| **Creating** | 3D visuals and animation |
+| **Exploring** | Python · DSA · AI Systems |
+| **Education** | ABES Engineering College, AKTU |
+| **Location** | Noida, India |
+
 ---
 
-## `./featured-builds`
+## Featured Builds
 
-| Build | What it is |
+| Build | Description |
 |---|---|
 | 🧁 **MUFFIN.AI** | Cognitive infrastructure for AI agents ("AWS for AI minds"), organized around five pillars. *In development.* |
 | 🔧 **[Xenon](https://github.com/xianyu-sheng/Xenon)** | My first open-source contribution. I took [issue #85](https://github.com/xianyu-sheng/Xenon/issues/85) (learning routing preferences from user overrides) and the maintainer merged [PR #134](https://github.com/xianyu-sheng/Xenon/pull/134). |
-| 🔬 **Ultrasonic Testing prototype** | Final-year major project on non-destructive testing, built with Group 18. |
+| 🔬 **Ultrasonic Testing Prototype** | Final-year major project on non-destructive testing, built with Group 18. |
 | 🎨 **3D Lab** | Freelance modeling, animation and renders on [Behance](https://behance.net/avusingh) and Fiverr. |
 
 ---
 
-## `./muffin-ai/architecture`
+## MUFFIN.AI Architecture
 
 <div align="center">
 
@@ -41,7 +43,7 @@ I'm a Mechanical Engineering student exploring the intersection of artificial in
 
 ---
 
-## `./tech-stack`
+## Tech Stack
 
 <div align="center">
 
@@ -88,39 +90,48 @@ I'm a Mechanical Engineering student exploring the intersection of artificial in
 
 ---
 
-## `./engineering-activity`
+## Engineering Activity
+
+<table align="center">
+<tr>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh442-dev&show_icons=true&theme=dark&bg_color=0a0e14&title_color=39ff88&icon_color=00e5ff&text_color=c9d4df&border_color=1c2a38&hide_rank=true&card_width=420" alt="GitHub stats" />
+</td>
+<td valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhansingh442-dev&layout=compact&theme=dark&bg_color=0a0e14&title_color=39ff88&text_color=c9d4df&border_color=1c2a38&card_width=420" alt="Most used languages" />
+</td>
+</tr>
+</table>
+
+---
+
+## Currently Building
+
+- [x] First open-source PR merged (Xenon #134)
+- [ ] MUFFIN.AI: turn the five-pillar architecture into working code
+- [ ] Python and C++ fundamentals through hands-on projects
+- [ ] DSA: daily problem solving on LeetCode
+- [ ] Next open-source contribution
+
+---
+
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh442-dev&show_icons=true&theme=dark&bg_color=0a0e14&title_color=39ff88&icon_color=00e5ff&text_color=c9d4df&border_color=1c2a38" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhansingh442-dev&layout=compact&theme=dark&bg_color=0a0e14&title_color=39ff88&text_color=c9d4df&border_color=1c2a38" height="165" alt="Most used languages" />
+<a href="https://github.com/yashvardhansingh442-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://behance.net/avusingh"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+<a href="https://leetcode.com/Yash04_09"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:yashvardhansingh442@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
-
-## `./currently-building`
-
-```text
-[x] first open-source PR merged (Xenon #134)
-[ ] MUFFIN.AI: turn the five-pillar architecture into working code
-[ ] Python and C++ fundamentals through hands-on projects
-[ ] DSA: daily problem solving on LeetCode
-[ ] next open-source issue
-```
-
----
-
-## `./connect`
-
-```text
-github   -> github.com/yashvardhansingh442-dev
-behance  -> behance.net/avusingh
-leetcode -> leetcode.com/Yash04_09
-email    -> yashvardhansingh442@gmail.com
-```
-
-[GitHub](https://github.com/yashvardhansingh442-dev) · [Behance](https://behance.net/avusingh) · [LeetCode](https://leetcode.com/Yash04_09) · [Email](mailto:yashvardhansingh442@gmail.com)
+| Platform | Best for |
+|---|---|
+| **[GitHub](https://github.com/yashvardhansingh442-dev)** | Open-source work and code |
+| **[Behance](https://behance.net/avusingh)** | 3D and animation portfolio |
+| **[LeetCode](https://leetcode.com/Yash04_09)** | DSA practice |
+| **[Email](mailto:yashvardhansingh442@gmail.com)** | Collaboration on AI tooling and robotics, and freelance 3D work |
 
 <div align="center">
 
