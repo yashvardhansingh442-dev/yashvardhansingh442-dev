@@ -18,6 +18,11 @@
 
 I'm a final-year Mechanical Engineering student at **ABES Engineering College (AKTU)**, based in **Noida, India**. My focus is the intersection of **Artificial Intelligence**, **Robotics** and **Systems Engineering**: understanding the physics and math of a system well enough to build it from scratch, in code and in CAD.
 
+```bash
+avu@terminal:~$ whoami
+> Mechanical Engineering student · Python / C++ · Robotics & AI · 3D artist
+```
+
 I'm currently open to **remote internships** in AI, robotics, Python and systems work, as well as 3D visualization and animation projects.
 
 ---
@@ -48,8 +53,9 @@ I'm currently open to **remote internships** in AI, robotics, Python and systems
 
 | Repository | Description |
 | --- | --- |
-| [`LEETCODE_DSA`](https://github.com/yashvardhansingh442-dev/LEETCODE_DSA) | Systematic data structures & algorithms practice with documented solutions. |
-| [`linear-algebra-playground`](https://github.com/yashvardhansingh442-dev/linear-algebra-playground) | MIT 18.06 linear algebra concepts implemented from scratch in Python. |
+| [`linear-algebra-playground`](https://github.com/yashvardhansingh442-dev/linear-algebra-playground) | Core linear algebra operations implemented from scratch in Python/NumPy, following Gilbert Strang's MIT 18.06 course. |
+| [`python-deep-dive`](https://github.com/yashvardhansingh442-dev/python-deep-dive) | Structured deep dive into Python: language internals, advanced features and applied depth. |
+| [`LEETCODE_DSA`](https://github.com/yashvardhansingh442-dev/LEETCODE_DSA) | DSA problems solved in Python/C++, tracking patterns, approaches and progress as part of daily practice. |
 | [`Git-Demo`](https://github.com/yashvardhansingh442-dev/Git-Demo) | "Git Mastery": ten hands-on Git & GitHub workflow topics. |
 
 ---
