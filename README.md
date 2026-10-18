@@ -18,10 +18,7 @@
 
 I'm a final-year Mechanical Engineering student at **ABES Engineering College (AKTU)**, based in **Noida, India**. My focus is the intersection of **Artificial Intelligence**, **Robotics** and **Systems Engineering**: understanding the physics and math of a system well enough to build it from scratch, in code and in CAD.
 
-```bash
-avu@terminal:~$ whoami
-> Mechanical Engineering student · Python / C++ · Robotics & AI · 3D artist
-```
+
 
 I'm currently open to **remote internships** in AI, robotics, Python and systems work, as well as 3D visualization and animation projects.
 
