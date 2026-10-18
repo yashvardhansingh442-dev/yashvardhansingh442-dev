@@ -1,138 +1,113 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="AVU // Engineering Lab: AI, Robotics, Systems, Open Source" width="100%" />
+
+![AVU // Engineering Lab: AI, Robotics, Systems, Open Source](assets/banner.svg)
+
+**Mechanical Engineering student building toward AI, Robotics and Systems Engineering.**
+*I learn by building, document the journey, and contribute to open source.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashvardhansingh442-dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Yash04_09)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/avusingh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashvardhansingh442@gmail.com)
+
 </div>
-
-## 📌 About Me
-
-I'm a Mechanical Engineering student exploring the intersection of **Artificial Intelligence**, **Robotics**, and **Systems Engineering**. I learn by building, document my journey, and actively contribute to open source.
 
 ---
 
-### ⚡ At a Glance
+## 📌 About Me
 
-| Metric | Focus |
-| :--- | :--- |
+I'm a final-year Mechanical Engineering student at **ABES Engineering College (AKTU)**, based in **Noida, India**. My focus is the intersection of **Artificial Intelligence**, **Robotics** and **Systems Engineering**: understanding the physics and math of a system well enough to build it from scratch, in code and in CAD.
+
+I'm currently open to **remote internships** in AI, robotics, Python and systems work, as well as 3D visualization and animation projects.
+
+---
+
+## ⚡ At a Glance
+
+| | |
+| --- | --- |
 | **Focus** | Mechanical Engineering → Robotics & AI |
-| **Building** | **[MUFFIN.AI](#muffinai-architecture)** |
-| **Contributing** | Open Source (*First PR merged into Xenon*) |
-| **Creating** | 3D Visuals & Animation |
-| **Exploring** | Python · DSA · AI Systems |
-| **Education** | ABES Engineering College, AKTU |
-| **Location** | Noida, India |
+| **Building** | [**MUFFIN.AI**](#-muffinai-architecture), cognitive infrastructure for AI agents |
+| **Contributing** | Open source (first PR merged into [Xenon](https://github.com/xianyu-sheng/Xenon)) |
+| **Practicing** | Python · C++ · DSA · linear algebra from scratch |
+| **Creating** | 3D visuals & animation |
+| **Education** | B.Tech Mechanical Engineering, ABES Engineering College, AKTU |
 
 ---
 
 ## 🚀 Featured Builds
 
-| Build | Description |
-| :--- | :--- |
+| Build | What it is |
+| --- | --- |
 | 🧁 **MUFFIN.AI** | Cognitive infrastructure for AI agents (*"AWS for AI minds"*), organized around five core pillars. Currently in active development. |
-| 🔧 **Xenon** | First open-source contribution. Solved issue **#85** (learning routing preferences from user overrides); PR **#134** successfully merged. |
-| 🔬 **Ultrasonic Testing Prototype** | Final-year major project focused on non-destructive testing, built in collaboration with Group 18. |
-| 🎨 **3D Lab** | Freelance 3D modeling, high-fidelity animation, and renders featured on Behance and Fiverr. |
+| 🔧 **Xenon** | First open-source contribution. Solved [issue #85](https://github.com/xianyu-sheng/Xenon/issues/85) (learning routing preferences from user overrides). [PR #134](https://github.com/xianyu-sheng/Xenon/pull/134) merged. |
+| 🔬 **Ultrasonic Testing Prototype** | Final-year major project on non-destructive testing: using ultrasonic waves to detect internal flaws in materials without damaging them. Built with a team of four. |
+| 🎨 **3D Lab** | Freelance 3D modeling, high-fidelity animation and renders, featured on [Behance](https://behance.net/avusingh) and Fiverr. |
+
+### 📂 Selected Repositories
+
+| Repository | Description |
+| --- | --- |
+| [`LEETCODE_DSA`](https://github.com/yashvardhansingh442-dev/LEETCODE_DSA) | Systematic data structures & algorithms practice with documented solutions. |
+| [`linear-algebra-playground`](https://github.com/yashvardhansingh442-dev/linear-algebra-playground) | MIT 18.06 linear algebra concepts implemented from scratch in Python. |
+| [`Git-Demo`](https://github.com/yashvardhansingh442-dev/Git-Demo) | "Git Mastery": ten hands-on Git & GitHub workflow topics. |
 
 ---
 
 ## 🧠 MUFFIN.AI Architecture
 
-<div align="center">
-  <img src="assets/muffin-architecture.svg" alt="MUFFIN.AI five-pillar architecture: Mathematics, Systems Engineering, Physics and Simulation, Cognitive Architecture, Founder Intelligence" width="100%" />
-</div>
+![MUFFIN.AI five-pillar architecture: Mathematics, Systems Engineering, Physics and Simulation, Cognitive Architecture, Founder Intelligence](assets/muffin-architecture.svg)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Daily drivers**
 
-### CAD & Design
-<img src="https://skillicons.dev/icons?i=autocad" height="40" alt="AutoCAD" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SolidWorks-E4002B?style=flat-square&logo=dassaultsystemes&logoColor=white" height="28" alt="SolidWorks" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Fusion%20360-F26722?style=flat-square&logo=autodesk&logoColor=white" height="28" alt="Fusion 360" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-E4002B?style=flat-square&logo=dassaultsystemes&logoColor=white)
 
-<br/>
+**Also worked with**
 
-### 3D & Animation
-<img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=flat-square&logo=cinema4d&logoColor=white" height="28" alt="Cinema 4D" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Houdini-FF4713?style=flat-square&logo=houdini&logoColor=white" height="28" alt="Houdini" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Octane%20Render-000000?style=flat-square&logoColor=white" height="28" alt="Octane Render" />
-
-<br/>
-
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="40" alt="Programming languages" />
-
-<br/>
-
-### Media & Creative
-<img src="https://skillicons.dev/icons?i=ps,ai,premiere,ae" height="40" alt="Creative software" />
-
-<br/>
-
-### Game Dev & Hardware
-<img src="https://skillicons.dev/icons?i=unity,unrealengine,arduino" height="40" alt="Game development and hardware" />
-
-<br/>
-
-### Tools & Ecosystem
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,obsidian,latex" height="40" alt="Development tools" />
-
-</div>
-
----
-
-## 📈 Engineering Activity
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=yashvardhansingh442-dev&show_icons=true&theme=dark&bg_color=0a0e14&title_color=39ff88&icon_color=00e5ff&text_color=c9d4df&border_color=1c2a38&hide_rank=true&card_width=420" alt="GitHub stats" />
-      </td>
-      <td valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvardhansingh442-dev&layout=compact&theme=dark&bg_color=0a0e14&title_color=39ff88&text_color=c9d4df&border_color=1c2a38&card_width=420" alt="Most used languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-F26722?style=flat-square&logo=autodesk&logoColor=white)
+![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6A?style=flat-square&logo=cinema4d&logoColor=white)
+![Houdini](https://img.shields.io/badge/Houdini-FF4713?style=flat-square&logo=houdini&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 ---
 
 ## 🎯 Currently Building
 
-- [x] **First Open-Source PR Merged**: Xenon ([#134](https://github.com/yashvardhansingh442-dev))
-- [ ] **MUFFIN.AI**: Transitioning five-pillar architecture into functional core code
-- [ ] **Core Engineering**: Deepening C++ and Python fundamentals via systems projects
-- [ ] **Data Structures & Algorithms**: Daily problem solving on LeetCode
-- [ ] **Open Source**: Scoping next target project & issue
+- [x] **First open-source PR merged**: [Xenon #134](https://github.com/xianyu-sheng/Xenon/pull/134)
+- [ ] **MUFFIN.AI**: turning the five-pillar architecture into functional core code
+- [ ] **Core engineering**: deepening C++ and Python fundamentals through systems projects
+- [ ] **DSA**: daily problem solving on [LeetCode](https://leetcode.com/Yash04_09)
+- [ ] **Open source**: scoping the next target project and issue
 
 ---
 
-## 🌐 Connect & Platforms
+## 🌐 Connect
 
-<div align="center">
-
-<a href="https://github.com/yashvardhansingh442-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://behance.net/avusingh"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
-<a href="https://leetcode.com/Yash04_09"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="mailto:yashvardhansingh442@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-
-<br/>
-
-| Platform | Best For |
-| :--- | :--- |
-| **GitHub** | Open-source work, code repositories, and systems projects |
-| **Behance** | 3D design, visual modeling, and animation portfolio |
-| **LeetCode** | DSA problem solving and algorithmic progress |
-| **Email** | Engineering collaboration (AI/Robotics) & 3D freelance inquiries |
+| Platform | Best for |
+| --- | --- |
+| [**GitHub**](https://github.com/yashvardhansingh442-dev) | Open-source work, code repositories, systems projects |
+| [**Behance**](https://behance.net/avusingh) | 3D design, visual modeling, animation portfolio |
+| [**LeetCode**](https://leetcode.com/Yash04_09) | DSA problem solving and algorithmic progress |
+| [**Email**](mailto:yashvardhansingh442@gmail.com) | AI/robotics collaboration and 3D freelance inquiries |
 
 ---
 
 <div align="center">
 
-> *"Build in public. Ship small, ship often."*
+*"Build in public. Ship small, ship often."*
 
 </div>
