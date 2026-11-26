@@ -43,11 +43,12 @@ I'm currently open to **remote internships** in AI, robotics, Python and systems
 
 | Build | What it is |
 | --- | --- |
-| 🧁 **[MUFFIN](https://github.com/yashvardhansingh442-dev/MUFFIN)** | A small Python library that sits between an AI agent and the real world: the agent can only *ask* to act, and MUFFIN checks the rules, allows or blocks each request, and keeps a record. Zero runtime dependencies, tested with CI. Early-stage prototype; the larger platform is a design goal, not shipped. |
-| 🧮 **[ALGEBRA-](https://github.com/yashvardhansingh442-dev/ALGEBRA-)** | A free algebra curriculum (6 modules), a practice-problem generator with exact answer checking, and a CLI. Standard library only, tested with CI. The first module of the math pillar behind my long-term project. |
+| 🧁 **[MUFFIN](https://github.com/yashvardhansingh442-dev/MUFFIN)** | A small Python library that sits between an AI agent and the real world: the agent can only *ask* to act, and MUFFIN checks the rules, allows or blocks each request, and keeps a record. About 1,600 lines, zero runtime dependencies, 183 tests at 87% coverage, CI. Early-stage prototype; the larger platform is a design goal, not shipped. |
+| 🧮 **[ALGEBRA-](https://github.com/yashvardhansingh442-dev/ALGEBRA-)** | A free algebra curriculum (6 modules, 90 solved practice problems), a practice-problem generator with exact answer checking, and a CLI. Standard library only, 124 tests, `ruff` and `mypy --strict`, CI. The first module of the math pillar behind my long-term project. |
+| 📐 **[Linear Algebra Playground](https://github.com/yashvardhansingh442-dev/linear-algebra-playground)** | Matrix multiplication, determinants, Gaussian elimination, matrix inverse and eigenvalues, written in plain Python and checked against NumPy and SciPy. Follows Gilbert Strang's MIT 18.06. |
 | 🔧 **[Xenon](https://github.com/xianyu-sheng/Xenon)** | First open-source contribution. Solved [issue #85](https://github.com/xianyu-sheng/Xenon/issues/85) (learning routing preferences from user overrides). [PR #134](https://github.com/xianyu-sheng/Xenon/pull/134) merged. |
 | 🔬 **Ultrasonic Testing Prototype** | Final-year major project on non-destructive testing: using ultrasonic waves to detect internal flaws in materials without damaging them. Built with a team of four (Arduino-based). |
-| 🎨 **[3D Portfolio](https://github.com/yashvardhansingh442-dev/3D-PORTFOLIO)** | Blender projects, product renders and the Python tools I write for them, such as a droplet generator that scatters water droplets over any mesh. Freelance work on [Behance](https://behance.net/avusingh) and Fiverr. |
+| 🎨 **[3D Portfolio](https://github.com/yashvardhansingh442-dev/3D-PORTFOLIO)** | Blender projects, product renders (such as **RED**, a 4K Cycles energy-drink shot) and the Python tools I write for them, such as a droplet generator that scatters water droplets over any mesh. Freelance work on [Behance](https://behance.net/avusingh) and Fiverr. |
 
 ### 📂 Selected Repositories
 
@@ -55,12 +56,13 @@ I'm currently open to **remote internships** in AI, robotics, Python and systems
 | --- | --- |
 | [`MUFFIN`](https://github.com/yashvardhansingh442-dev/MUFFIN) | Safety-and-memory runtime for AI agents. Rule checks, allow/block decisions and an audit record. |
 | [`ALGEBRA-`](https://github.com/yashvardhansingh442-dev/ALGEBRA-) | Algebra curriculum, exact-checking practice generator and CLI. Zero runtime dependencies. |
-| [`linear-algebra-playground`](https://github.com/yashvardhansingh442-dev/linear-algebra-playground) | Core linear algebra operations implemented from scratch in Python/NumPy, following Gilbert Strang's MIT 18.06 course. |
-| [`python-deep-dive`](https://github.com/yashvardhansingh442-dev/python-deep-dive) | Structured deep dive into Python: language internals, advanced features and applied depth. |
+| [`linear-algebra-playground`](https://github.com/yashvardhansingh442-dev/linear-algebra-playground) | Core linear algebra built by hand in pure Python (no NumPy in the library code) and verified against NumPy and SciPy, following Gilbert Strang's MIT 18.06. |
+| [`python-deep-dive`](https://github.com/yashvardhansingh442-dev/python-deep-dive) | Learning Python in public, from the basics toward internals: 15 topic notes, about 40 experiment scripts (Python, NumPy, linear algebra), a NumPy spending-tracker project and a typed, tested package with CI. |
 | [`LEETCODE_DSA`](https://github.com/yashvardhansingh442-dev/LEETCODE_DSA) | DSA problems solved in Python/C++, tracking patterns, approaches and progress. |
-| [`CODEFORCES_CP`](https://github.com/yashvardhansingh442-dev/CODEFORCES_CP) | Public log of my Codeforces journey in Python: solutions with the key idea in each header, plus an upsolve log of contest misses. |
+| [`CODEFORCES_CP`](https://github.com/yashvardhansingh442-dev/CODEFORCES_CP) | Public log of my Codeforces journey in Python (started October 2026): solutions with the key idea in each header, plus an upsolve log of contest misses. |
 | [`3D-PORTFOLIO`](https://github.com/yashvardhansingh442-dev/3D-PORTFOLIO) | Blender projects, reusable Python tools and process breakdowns. |
-| [`Git-Demo`](https://github.com/yashvardhansingh442-dev/Git-Demo) | "Git Mastery": ten hands-on Git & GitHub workflow topics. |
+| [`Git-Demo`](https://github.com/yashvardhansingh442-dev/Git-Demo) | "Git Mastery": ten Git & GitHub workflow topics written as worked examples, being filled in one at a time (merge vs rebase is finished). |
+| [`Java-simplified`](https://github.com/yashvardhansingh442-dev/Java-simplified) · [`Frontend-Lab`](https://github.com/yashvardhansingh442-dev/Frontend-Lab) · [`Backend-Lab`](https://github.com/yashvardhansingh442-dev/Backend-Lab) | Learning paths in progress: Java internals (JVM, concurrency, collections), frontend engineering, and backend engineering with Python. Early stage, with projects still to come. |
 
 ---
 
@@ -84,8 +86,16 @@ Each pillar is learned by building. The rule I follow: I don't move to the next 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-E4002B?style=flat-square&logo=dassaultsystemes&logoColor=white)
 
+**Libraries**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+
 **Also worked with**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-F26722?style=flat-square&logo=autodesk&logoColor=white)
 ![Cinema 4D](https://img.shields.io/badge/Cinema_4D-011A6A?style=flat-square&logo=cinema4d&logoColor=white)
